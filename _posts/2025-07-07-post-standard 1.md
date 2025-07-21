@@ -1,12 +1,6 @@
 ---
 title: "Introduction to Secure DevOps"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 # Secure DevOps Project - Week 9 Assignment
