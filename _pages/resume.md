@@ -14,28 +14,19 @@ Jomo Kenyatta University of Agriculture and Technology | 2016 – 2022
 
 PROFESSIONAL EXPERIENCE
 
-IT INTERN
-
-National Authority for the Campaign Against Alcohol and Drug Abuse (NACADA) 
-
+IT INTERN  
+National Authority for the Campaign Against Alcohol and Drug Abuse (NACADA)   
 January 2024 – January 2025
 
-•	Troubleshoot and resolve hardware, software, and network issues, ensuring minimal downtime.
-
-•	Maintain support systems and provide end-user training on emerging technologies.
-
-•	Offer IT support to guests during meetings and conferences, ensuring seamless operations.
-
-•	Provide technical assistance to regional office staff, enhancing productivity.
-
-•	Configure, install, and maintain desktops, laptops, printers, and other IT hardware.
-
-•	Ensure stable network connectivity across the organization's LAN and WAN infrastructure.
-
+•	Troubleshoot and resolve hardware, software, and network issues, ensuring minimal downtime.  
+•	Maintain support systems and provide end-user training on emerging technologies.  
+•	Offer IT support to guests during meetings and conferences, ensuring seamless operations.  
+•	Provide technical assistance to regional office staff, enhancing productivity.  
+•	Configure, install, and maintain desktops, laptops, printers, and other IT hardware.  
+•	Ensure stable network connectivity across the organization's LAN and WAN infrastructure.  
 •	Monitor and analyze network traffic to detect potential security threats
 
-IT SUPPORT AND CONSULTANT
-
+IT SUPPORT AND CONSULTANT  
 Hillview Premier School | February 2019 – July 2021
 
 •	Diagnosed and resolved software and hardware issues, documenting troubleshooting steps for future reference.
@@ -69,5 +60,5 @@ CERTIFICATIONS
 •	Virtual Testing Foundation: Continuous Security Testing Boot camp    
 
 •	Microsoft Azure Fundamentals (AZ-900)                   
-                          
+
 •	Blue Team Junior Analyst                                                                     
