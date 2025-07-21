@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Secure DevOps"
+title: "Perform threat hunting in Microsoft Sentinel"
 excerpt_separator: "<!--more-->"
 ---
 
