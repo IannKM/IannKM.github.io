@@ -5,6 +5,8 @@
 layout: single
 author_profile: true
 ---
+# Professional Summary
+
 
 Proactive and detail-oriented SOC Specialist & Cybersecurity Analyst with a solid foundation in
 cybersecurity, incident response, and security monitoring. Holding multiple industry certifications,
