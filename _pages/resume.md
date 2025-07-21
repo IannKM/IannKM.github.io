@@ -43,7 +43,7 @@ Amtech Technologies Limited | August 2018 – November 2018
 •	Collaborated on security enhancements to protect user data and prevent unauthorized access.
 
 
-CERTIFICATIONS
+CERTIFICATIONS  
 •	Cybersecurity and Emerging Technologies Awareness Training  
 •	ISC2 Certified in Cyber Security  
 •	Microsoft Security Compliance and Identity Fundamentals (SC-900)  
