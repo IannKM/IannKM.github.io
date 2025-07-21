@@ -11,9 +11,8 @@ tags:
 
 # Secure DevOps Project - Week 9 Assignment
 
-## Author: Ian Mutai  
-**Student ID:** adc-soa02-25023  
-**Course:** Security Operations Analyst - C2 - 2025  
+## Author: Ian Mutai   
+**Course:** Security Operations Analyst   
 **Certification:** Microsoft Certified: Security Operations Analyst Associate (SC-200)
 
 ---
