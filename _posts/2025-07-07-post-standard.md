@@ -1,12 +1,6 @@
 ---
 title: "Create detections and perform investigations using Microsoft Sentinel"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 # Microsoft Sentinel Security Operations Project
