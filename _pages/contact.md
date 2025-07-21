@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-# 📇 Contact Me
+#  Contact Me
 
 Thank you for visiting! If you’d like to connect , feel free to reach out through any of the channels below:
 
@@ -11,17 +11,17 @@ Thank you for visiting! If you’d like to connect , feel free to reach out thro
 
 ## 🔗 Professional Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ian-mutai-7881ab1a5/)  
+-  [LinkedIn](https://www.linkedin.com/in/ian-mutai-7881ab1a5/)  
   Connect with me on LinkedIn for professional networking and industry insights.
 
-- 💻 [GitHub](https://github.com/IannKM)  
+-  [GitHub](https://github.com/IannKM)  
   Explore my projects, contributions, and repositories.
 
 ---
 
-## ✉️ Email
+## ✉ Email
 
-- 📬 **ianmuttai@gmail.com**  
+-  **ianmuttai@gmail.com**  
   Feel free to email me regarding collaboration, freelance work, or professional inquiries.
 ---
 
