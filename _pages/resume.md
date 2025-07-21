@@ -29,36 +29,24 @@ January 2024 – January 2025
 IT SUPPORT AND CONSULTANT  
 Hillview Premier School | February 2019 – July 2021
 
-•	Diagnosed and resolved software and hardware issues, documenting troubleshooting steps for future reference.
-
-•	Assisted in system installation, configuration, and maintenance, improving system efficiency.
-
-•	Provided recommendations for improving security controls and processes within the school’s IT infrastructure.
-
+•	Diagnosed and resolved software and hardware issues, documenting troubleshooting steps for future reference.  
+•	Assisted in system installation, configuration, and maintenance, improving system efficiency.  
+•	Provided recommendations for improving security controls and processes within the school’s IT infrastructure.  
 •	Advised on cost-effective hardware procurement, aligning with the school’s budget constraints
 
-SOFTWARE DEVELOPER INTERN
-
+SOFTWARE DEVELOPER INTERN  
 Amtech Technologies Limited | August 2018 – November 2018
 
-•	Developed and deployed a web application using ASP.NET MVC, integrating HTML and C# for a hospital in Bomet County.
-
-•	Designed an intuitive doctor and nurse dashboard with a scheduling calendar, streamlining patient appointment management.
-
-•	Worked on a data security framework for a Boda Boda Sacco system, ensuring secure handling of sensitive information.
-
+•	Developed and deployed a web application using ASP.NET MVC, integrating HTML and C# for a hospital in Bomet County.  
+•	Designed an intuitive doctor and nurse dashboard with a scheduling calendar, streamlining patient appointment management.  
+•	Worked on a data security framework for a Boda Boda Sacco system, ensuring secure handling of sensitive information.  
 •	Collaborated on security enhancements to protect user data and prevent unauthorized access.
 
 
 CERTIFICATIONS
-•	Cybersecurity and Emerging Technologies Awareness Training    
-
-•	ISC2 Certified in Cyber Security                  
-
-•	Microsoft Security Compliance and Identity Fundamentals (SC-900)
-
-•	Virtual Testing Foundation: Continuous Security Testing Boot camp    
-
-•	Microsoft Azure Fundamentals (AZ-900)                   
-
+•	Cybersecurity and Emerging Technologies Awareness Training  
+•	ISC2 Certified in Cyber Security  
+•	Microsoft Security Compliance and Identity Fundamentals (SC-900)  
+•	Virtual Testing Foundation: Continuous Security Testing Boot camp  
+•	Microsoft Azure Fundamentals (AZ-900)  
 •	Blue Team Junior Analyst                                                                     
