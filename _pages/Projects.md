@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: categories
-permalink: /categories/
+layout: posts
+permalink: /Projects/
 author_profile: true
 ---

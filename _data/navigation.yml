@@ -1,8 +1,8 @@
 main:
   - title: "Resume Outline"
     url: /resume/
-  - title: "Categories"
-    url: /categories/
+  - title: "Projects"
+    url: /Projects/
   - title: "Labs"
     url: /labs/
   - title: "Contact"
